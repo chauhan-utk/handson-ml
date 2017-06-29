@@ -21,7 +21,7 @@
 
 jupyter==1.0.0
 matplotlib==1.5.3
-numexpr==2.6.1
+#numexpr==2.6.1
 numpy==1.12.0
 pandas==0.19.1
 Pillow==3.4.2
@@ -37,8 +37,8 @@ tensorflow-gpu==1.0.0
 # https://github.com/openai/gym#installing-everything
 #gym[all]==0.5.4
 # If you only want to install the Atari dependency, uncomment this line instead:
-gym[atari]==0.5.4
+#gym[atari]==0.5.4
 
 # Optional: these are useful Jupyter extensions, in particular to display
 # the table of contents.
-https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tarball/master
+#https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tarball/master

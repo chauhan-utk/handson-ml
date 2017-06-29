@@ -9,3 +9,9 @@ tf_logs/*
 images/**/*.png
 my_*
 datasets/words
+*.html
+checkpoints
+datasets/mnist
+log_dir
+14_recurrent_neural_networks.ipynb
+14_recurrent_neural_networks.ipynb
